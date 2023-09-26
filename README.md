@@ -12,8 +12,8 @@ Said stats include: Name, Lastname, Team, Height, Age, Position they played in, 
 - Admins can REMOVE players from the list.
 - Admins can EDIT the stats of a player.
 
-It uses a SQL database to store data locally.
-
+It uses a SQL database to store data locally. <br>
+<a href="https://github.com/AegisSoul/Kursinis-projektas-Laravel">The newest iteration of this project can be found here:</a>
 
 
 
@@ -32,4 +32,5 @@ Statistiką apima: Vardą, Pavardę, Komandą, Ūgį, Amžių, Poziciją, kurioj
 - Administratoriai gali PAŠALINTI žaidėjus iš sąrašo.
 - Administratoriai gali REDAGUOTI žaidėjo statistiką.
 
-Naudojama SQL duomenų bazė saugoti duomenis lokaliai.
+Naudojama SQL duomenų bazė saugoti duomenis lokaliai. <br>
+<a href="https://github.com/AegisSoul/Kursinis-projektas-Laravel">Naujausią šio projekto versiją galima rasti čia:</a>
